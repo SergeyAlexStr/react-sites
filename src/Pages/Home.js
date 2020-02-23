@@ -1,11 +1,11 @@
 import React from "react";
+import CarouselBox from '../components/CaruselBox/CarouselBox.js'
 
 export default class Home  extends React.Component{
+
     render() {
         return(
-            <div>
-                <h1>Hello Home</h1>
-            </div>
+            <CarouselBox/>
         )
 
     }
