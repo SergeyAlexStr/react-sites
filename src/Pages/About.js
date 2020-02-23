@@ -23,8 +23,8 @@ export default class About  extends React.Component{
                             </Nav>
                             </Col>
                         <Col sm={9}>
-                            <Tab.Content className = 'mt-50'>
-                            <Tab.Pane eventKey = 'first'>
+                            <Tab.Content className = 'p-4 mt-5' >
+                            <Tab.Pane eventKey = 'first' >
                                 <img src='http://publicatom.ru/rosenergo/images/reaktor5-big.jpg'  alt = 'reactor'/>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis earum id, impedit ipsum maxime necessitatibus nulla odio officiis omnis quidem reprehenderit sit unde, vero! Debitis.</p>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis earum id, impedit ipsum maxime necessitatibus nulla odio officiis omnis quidem reprehenderit sit unde, vero! Debitis.</p>
